@@ -1,2 +1,2 @@
 # Welcome to SpliDT Decision Trees Organization
-🚀 To get started, visit our website: [SpliDT-Decision-Trees.github.io](https://SpliDT-Decision-Trees.github.io/)
+🚀 To get started, visit our website: [splidt-decision-trees.github.io/](https://splidt-decision-trees.github.io/)
